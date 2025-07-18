@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|solutionrelative:grpproj\\grpproj\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|solutionrelative:grpproj\\grpproj\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|solutionrelative:grpproj\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|solutionrelative:grpproj\\grpproj\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|solutionrelative:grpproj\\grpproj\\templates\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|solutionrelative:grpproj\\grpproj\\templates\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFDD4508-25FB-4AD2-B1C9-212DD304E3CF}|grpproj\\grpproj.pyproj|solutionrelative:grpproj\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurgi\\Documents\\grpproj\\grpproj\\grpproj\\static\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\about.html",
+              "RelativeDocumentMoniker": "grpproj\\grpproj\\templates\\about.html",
+              "ToolTip": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\about.html",
+              "RelativeToolTip": "grpproj\\grpproj\\templates\\about.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-10T14:07:59.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\contact.html",
+              "RelativeDocumentMoniker": "grpproj\\grpproj\\templates\\contact.html",
+              "ToolTip": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\contact.html",
+              "RelativeToolTip": "grpproj\\grpproj\\templates\\contact.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-10T14:07:57.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\index.html",
+              "RelativeDocumentMoniker": "grpproj\\grpproj\\templates\\index.html",
+              "ToolTip": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\templates\\index.html",
+              "RelativeToolTip": "grpproj\\grpproj\\templates\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-10T14:07:55.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\nurgi\\Documents\\grpproj\\grpproj\\grpproj\\static\\scripts\\bootstrap.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\grpproj\\grpproj\\grpproj\\static\\scripts\\bootstrap.js",
+              "ToolTip": "C:\\Users\\nurgi\\Documents\\grpproj\\grpproj\\grpproj\\static\\scripts\\bootstrap.js",
+              "RelativeToolTip": "..\\..\\..\\grpproj\\grpproj\\grpproj\\static\\scripts\\bootstrap.js",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-27T15:22:37.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "runserver.py",
+              "DocumentMoniker": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\runserver.py",
+              "RelativeDocumentMoniker": "grpproj\\runserver.py",
+              "ToolTip": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\runserver.py",
+              "RelativeToolTip": "grpproj\\runserver.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-27T15:21:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\requirements.txt",
+              "RelativeDocumentMoniker": "grpproj\\requirements.txt",
+              "ToolTip": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\requirements.txt",
+              "RelativeToolTip": "grpproj\\requirements.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-27T15:21:30.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "__init__.py (grpproj)",
+              "DocumentMoniker": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\__init__.py",
+              "RelativeDocumentMoniker": "grpproj\\grpproj\\__init__.py",
+              "ToolTip": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\__init__.py",
+              "RelativeToolTip": "grpproj\\grpproj\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-27T15:20:54.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\views.py",
+              "RelativeDocumentMoniker": "grpproj\\grpproj\\views.py",
+              "ToolTip": "C:\\Users\\nurgi\\Documents\\GitHub\\Raytheon4-Group-Project\\backend\\grpproj\\grpproj\\views.py",
+              "RelativeToolTip": "grpproj\\grpproj\\views.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-27T15:20:39.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

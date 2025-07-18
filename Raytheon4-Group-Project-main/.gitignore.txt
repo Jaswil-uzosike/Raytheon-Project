@@ -1,0 +1,14 @@
+# Ignore Python virtual environment, cache, and sensitive files
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/*.pyc
+
+# Ignore Node.js dependencies and build files (for Svelte)
+frontend/node_modules/
+frontend/.svelte-kit/
+frontend/build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6518 @@
+{
+  "Rotherham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.2863186789440975,
+        "lat": 53.408713210295915
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000018"
+      ],
+      "ctyua_name": [
+        "Rotherham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 286.42219471969275
+    }
+  },
+  "Torbay": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.554307726672396,
+        "lat": 50.44160762820528
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000027"
+      ],
+      "ctyua_name": [
+        "Torbay"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 62.756819069226815
+    }
+  },
+  "West Sussex": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.4897653327866583,
+        "lat": 50.95825902971651
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E10000032"
+      ],
+      "ctyua_name": [
+        "West Sussex"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 1992.2095120845408
+    }
+  },
+  "West Northamptonshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.0361379760352434,
+        "lat": 52.22302900031273
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E06000062"
+      ],
+      "ctyua_name": [
+        "West Northamptonshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 1380.6258405591789
+    }
+  },
+  "West Lothian": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.574432924367999,
+        "lat": 55.884239259083536
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000040"
+      ],
+      "ctyua_name": [
+        "West Lothian"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 428.58660512867897
+    }
+  },
+  "Buckinghamshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.812116914652535,
+        "lat": 51.785302361018495
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000060"
+      ],
+      "ctyua_name": [
+        "Buckinghamshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 1565.4515003090921
+    }
+  },
+  "Reading": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.9838289729344527,
+        "lat": 51.452931627488624
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000038"
+      ],
+      "ctyua_name": [
+        "Reading"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 40.357475132942554
+    }
+  },
+  "Isle of Anglesey": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.374043181222066,
+        "lat": 53.287117207737296
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000001"
+      ],
+      "ctyua_name": [
+        "Isle of Anglesey"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 715.0866879459443
+    }
+  },
+  "Midlothian": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.110396968266309,
+        "lat": 55.832237171763026
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000019"
+      ],
+      "ctyua_name": [
+        "Midlothian"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 355.32960980487707
+    }
+  },
+  "Glasgow City": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.252787266560641,
+        "lat": 55.85788617019793
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000049"
+      ],
+      "ctyua_name": [
+        "Glasgow City"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 174.44207931055823
+    }
+  },
+  "Angus": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.9205391300821533,
+        "lat": 56.72487271703561
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000041"
+      ],
+      "ctyua_name": [
+        "Angus"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 2184.95698213089
+    }
+  },
+  "Croydon": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.08716269311729896,
+        "lat": 51.35529532679522
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000008"
+      ],
+      "ctyua_name": [
+        "Croydon"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 86.58983465852629
+    }
+  },
+  "Barnsley": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.532574021512903,
+        "lat": 53.53583248486842
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000016"
+      ],
+      "ctyua_name": [
+        "Barnsley"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 329.2029280069629
+    }
+  },
+  "Bracknell Forest": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.7397265943243532,
+        "lat": 51.40812580929733
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000036"
+      ],
+      "ctyua_name": [
+        "Bracknell Forest"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 109.38237404376596
+    }
+  },
+  "Tower Hamlets": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.035548111034279746,
+        "lat": 51.517232607748824
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000030"
+      ],
+      "ctyua_name": [
+        "Tower Hamlets"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 19.830445088496727
+    }
+  },
+  "Coventry": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.51983115832699,
+        "lat": 52.41688330204793
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E08000026"
+      ],
+      "ctyua_name": [
+        "Coventry"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 98.64278432586204
+    }
+  },
+  "Windsor and Maidenhead": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.6995924282116793,
+        "lat": 51.485668784167224
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000040"
+      ],
+      "ctyua_name": [
+        "Windsor and Maidenhead"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 198.46284646867878
+    }
+  },
+  "Leicester": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.1284349213890066,
+        "lat": 52.63797724341194
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E06000016"
+      ],
+      "ctyua_name": [
+        "Leicester"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 73.27146668915073
+    }
+  },
+  "Greenwich": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.05632352044737627,
+        "lat": 51.472796883015235
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000011"
+      ],
+      "ctyua_name": [
+        "Greenwich"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 47.42349938091361
+    }
+  },
+  "Walsall": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.966260152807215,
+        "lat": 52.599240812159486
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E08000030"
+      ],
+      "ctyua_name": [
+        "Walsall"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 103.940603116058
+    }
+  },
+  "Bournemouth-Christchurch and Poole": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.8789397607334988,
+        "lat": 50.74957546745788
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000058"
+      ],
+      "ctyua_name": [
+        "Bournemouth",
+        "Christchurch and Poole"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 162.16964110676753
+    }
+  },
+  "Devon": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.810448666040092,
+        "lat": 50.76152971669359
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E10000008"
+      ],
+      "ctyua_name": [
+        "Devon"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 6567.159157263723
+    }
+  },
+  "Gloucestershire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.119264589844318,
+        "lat": 51.827520900661746
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E10000013"
+      ],
+      "ctyua_name": [
+        "Gloucestershire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 2653.0966875651557
+    }
+  },
+  "Aberdeenshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.6308440365947634,
+        "lat": 57.241461854995755
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000034"
+      ],
+      "ctyua_name": [
+        "Aberdeenshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 6318.014298581417
+    }
+  },
+  "Camden": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.15743534194660444,
+        "lat": 51.546422304914614
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000007"
+      ],
+      "ctyua_name": [
+        "Camden"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 21.718303852996456
+    }
+  },
+  "Cheshire East": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.349338014146988,
+        "lat": 53.18040701665066
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E06000049"
+      ],
+      "ctyua_name": [
+        "Cheshire East"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 1166.4792097100847
+    }
+  },
+  "Shropshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.734150063983094,
+        "lat": 52.63538287441493
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E06000051"
+      ],
+      "ctyua_name": [
+        "Shropshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 3196.662366031546
+    }
+  },
+  "Pembrokeshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.88570390983945,
+        "lat": 51.85577328442276
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000009"
+      ],
+      "ctyua_name": [
+        "Pembrokeshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 1618.2078805035649
+    }
+  },
+  "Slough": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.5861600307490992,
+        "lat": 51.50838053878378
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000039"
+      ],
+      "ctyua_name": [
+        "Slough"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 32.518851385077056
+    }
+  },
+  "South Ayrshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.688001187132005,
+        "lat": 55.267758427911836
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000028"
+      ],
+      "ctyua_name": [
+        "South Ayrshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 1223.9661562671895
+    }
+  },
+  "Waltham Forest": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.012623197767854576,
+        "lat": 51.59409116471255
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000031"
+      ],
+      "ctyua_name": [
+        "Waltham Forest"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 38.89457637913623
+    }
+  },
+  "Cumbria": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.899456454011449,
+        "lat": 54.590656805925285
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E10000006"
+      ],
+      "ctyua_name": [
+        "Cumbria"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 6825.790536756367
+    }
+  },
+  "Peterborough": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.25316649104197053,
+        "lat": 52.60854425398584
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E06000031"
+      ],
+      "ctyua_name": [
+        "Peterborough"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 343.4849648171933
+    }
+  },
+  "Wokingham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.8838224369102705,
+        "lat": 51.42940749152901
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000041"
+      ],
+      "ctyua_name": [
+        "Wokingham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 179.06053279864048
+    }
+  },
+  "Redcar and Cleveland": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.0207798915635218,
+        "lat": 54.55167827670915
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E06000003"
+      ],
+      "ctyua_name": [
+        "Redcar and Cleveland"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 245.23467933279593
+    }
+  },
+  "Newry-Mourne and Down": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.067810591452442,
+        "lat": 54.2362799102926
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000010"
+      ],
+      "ctyua_name": [
+        "Newry",
+        "Mourne and Down"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 1681.1205473589416
+    }
+  },
+  "Ceredigion": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.071690541238887,
+        "lat": 52.25427053165706
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000008"
+      ],
+      "ctyua_name": [
+        "Ceredigion"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 1788.1120534040465
+    }
+  },
+  "Dorset": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.3357835740890405,
+        "lat": 50.80788282266825
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000059"
+      ],
+      "ctyua_name": [
+        "Dorset"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 2491.2532022062055
+    }
+  },
+  "Ealing": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.33095973732738176,
+        "lat": 51.52246427811515
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000009"
+      ],
+      "ctyua_name": [
+        "Ealing"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 55.48685373129389
+    }
+  },
+  "Oxfordshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.3223234790278169,
+        "lat": 51.765771405173915
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E10000025"
+      ],
+      "ctyua_name": [
+        "Oxfordshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 2606.869349889219
+    }
+  },
+  "Plymouth": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.118311412819135,
+        "lat": 50.39202762399085
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000026"
+      ],
+      "ctyua_name": [
+        "Plymouth"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 79.96878840489912
+    }
+  },
+  "Fife": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.126607872142665,
+        "lat": 56.22861197601794
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000047"
+      ],
+      "ctyua_name": [
+        "Fife"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 1324.9974102133865
+    }
+  },
+  "West Dunbartonshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.516842419269598,
+        "lat": 55.986452703172056
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000039"
+      ],
+      "ctyua_name": [
+        "West Dunbartonshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 177.46182128230734
+    }
+  },
+  "Swansea": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.050572695109246,
+        "lat": 51.643542286279995
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000011"
+      ],
+      "ctyua_name": [
+        "Swansea"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 377.67954810238484
+    }
+  },
+  "Birmingham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.8747459243185574,
+        "lat": 52.48858780828997
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E08000025"
+      ],
+      "ctyua_name": [
+        "Birmingham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 267.8223713650239
+    }
+  },
+  "Vale of Glamorgan": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.3992670244311944,
+        "lat": 51.44574815888622
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000014"
+      ],
+      "ctyua_name": [
+        "Vale of Glamorgan"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 331.0420021135412
+    }
+  },
+  "Darlington": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.552638398373507,
+        "lat": 54.54869417540747
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E06000005"
+      ],
+      "ctyua_name": [
+        "Darlington"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 197.5995446158902
+    }
+  },
+  "Hillingdon": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.44564113400355804,
+        "lat": 51.54152948588465
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000017"
+      ],
+      "ctyua_name": [
+        "Hillingdon"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 115.81559486897251
+    }
+  },
+  "Flintshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.15996074133938,
+        "lat": 53.20856745407665
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000005"
+      ],
+      "ctyua_name": [
+        "Flintshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 439.9093673582924
+    }
+  },
+  "Dudley": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.1087749385914,
+        "lat": 52.482953002051374
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E08000027"
+      ],
+      "ctyua_name": [
+        "Dudley"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 97.93685787654957
+    }
+  },
+  "Sandwell": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.008961917938773,
+        "lat": 52.51539646437255
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E08000028"
+      ],
+      "ctyua_name": [
+        "Sandwell"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 85.50885794304573
+    }
+  },
+  "Hertfordshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.21697264362747243,
+        "lat": 51.829737732851626
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E10000015"
+      ],
+      "ctyua_name": [
+        "Hertfordshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 1643.662426227215
+    }
+  },
+  "Bradford": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.854746319325887,
+        "lat": 53.84471020506917
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000032"
+      ],
+      "ctyua_name": [
+        "Bradford"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 366.44323869318066
+    }
+  },
+  "Solihull": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.7270563763731237,
+        "lat": 52.41311795826268
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E08000029"
+      ],
+      "ctyua_name": [
+        "Solihull"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 178.2536962278601
+    }
+  },
+  "Hampshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.287974616283883,
+        "lat": 51.06799846658168
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E10000014"
+      ],
+      "ctyua_name": [
+        "Hampshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 3680.465589299694
+    }
+  },
+  "Carmarthenshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.157758308685624,
+        "lat": 51.90497554639796
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000010"
+      ],
+      "ctyua_name": [
+        "Carmarthenshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 2371.164305555107
+    }
+  },
+  "Manchester": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.2325139262732567,
+        "lat": 53.45147919085875
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000003"
+      ],
+      "ctyua_name": [
+        "Manchester"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 115.42244428527005
+    }
+  },
+  "Bedford": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.47710965859862187,
+        "lat": 52.189186648843325
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E06000055"
+      ],
+      "ctyua_name": [
+        "Bedford"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 476.4206102981277
+    }
+  },
+  "Isle of Wight": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.2979144715901092,
+        "lat": 50.67478199438942
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000046"
+      ],
+      "ctyua_name": [
+        "Isle of Wight"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 380.88168408269036
+    }
+  },
+  "Wandsworth": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.1864613783491604,
+        "lat": 51.45133313548502
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000032"
+      ],
+      "ctyua_name": [
+        "Wandsworth"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 34.2936529638878
+    }
+  },
+  "Wakefield": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.4118461972544756,
+        "lat": 53.660680452634594
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000036"
+      ],
+      "ctyua_name": [
+        "Wakefield"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 338.3797647636701
+    }
+  },
+  "Cardiff": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.203497414876185,
+        "lat": 51.51002030312227
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000015"
+      ],
+      "ctyua_name": [
+        "Cardiff"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 142.24259293730947
+    }
+  },
+  "Bromley": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.051529911434810956,
+        "lat": 51.372016174496224
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000006"
+      ],
+      "ctyua_name": [
+        "Bromley"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 149.88689174628655
+    }
+  },
+  "Dumfries and Galloway": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.9607333078951776,
+        "lat": 55.07707953803293
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000006"
+      ],
+      "ctyua_name": [
+        "Dumfries and Galloway"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 6437.294064683494
+    }
+  },
+  "Derby": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.468345890779426,
+        "lat": 52.91257768429399
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E06000015"
+      ],
+      "ctyua_name": [
+        "Derby"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 78.02683302540105
+    }
+  },
+  "North Yorkshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.4198093584622915,
+        "lat": 54.19015822627311
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E10000023"
+      ],
+      "ctyua_name": [
+        "North Yorkshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 8041.958172490714
+    }
+  },
+  "Essex": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.559869038567748,
+        "lat": 51.81170391989581
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E10000012"
+      ],
+      "ctyua_name": [
+        "Essex"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 3465.326890232174
+    }
+  },
+  "Sheffield": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.550433383697288,
+        "lat": 53.40441386125148
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000019"
+      ],
+      "ctyua_name": [
+        "Sheffield"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 367.89084725585207
+    }
+  },
+  "Islington": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.11029408569497111,
+        "lat": 51.548507716711356
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000019"
+      ],
+      "ctyua_name": [
+        "Islington"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 14.878462980515673
+    }
+  },
+  "Westminster": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.1613043092216527,
+        "lat": 51.51392604925749
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000033"
+      ],
+      "ctyua_name": [
+        "Westminster"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 21.545068619905944
+    }
+  },
+  "Trafford": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.3553360497683715,
+        "lat": 53.41900723622432
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000009"
+      ],
+      "ctyua_name": [
+        "Trafford"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 106.05298916371393
+    }
+  },
+  "North Lincolnshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.5936412008325463,
+        "lat": 53.5908168946384
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E06000013"
+      ],
+      "ctyua_name": [
+        "North Lincolnshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 846.9236204947274
+    }
+  },
+  "St. Helens": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.7235904448740187,
+        "lat": 53.4595323413535
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000013"
+      ],
+      "ctyua_name": [
+        "St. Helens"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 136.37053130591903
+    }
+  },
+  "Caerphilly": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.2049518291626717,
+        "lat": 51.653266591957774
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000018"
+      ],
+      "ctyua_name": [
+        "Caerphilly"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 277.5122863973785
+    }
+  },
+  "Warrington": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.5628271703287853,
+        "lat": 53.39907123095183
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E06000007"
+      ],
+      "ctyua_name": [
+        "Warrington"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 180.8856117007018
+    }
+  },
+  "Norfolk": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.9529866760765652,
+        "lat": 52.67112223134827
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E10000020"
+      ],
+      "ctyua_name": [
+        "Norfolk"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 5381.929676626097
+    }
+  },
+  "South Gloucestershire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.457572079303141,
+        "lat": 51.541962306245374
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000025"
+      ],
+      "ctyua_name": [
+        "South Gloucestershire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 496.95772278973794
+    }
+  },
+  "Wrexham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.0176466112085247,
+        "lat": 52.990294485334026
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000006"
+      ],
+      "ctyua_name": [
+        "Wrexham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 503.6644212966308
+    }
+  },
+  "Armagh City-Banbridge and Craigavon": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.4574438723901935,
+        "lat": 54.36931110520176
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000002"
+      ],
+      "ctyua_name": [
+        "Armagh City",
+        "Banbridge and Craigavon"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 1434.769912372523
+    }
+  },
+  "Gwynedd": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.021460180899843,
+        "lat": 52.89307355022922
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000002"
+      ],
+      "ctyua_name": [
+        "Gwynedd"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 2547.7769521377945
+    }
+  },
+  "Brent": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.2677818698644934,
+        "lat": 51.558572973914366
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000005"
+      ],
+      "ctyua_name": [
+        "Brent"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 43.23304061450388
+    }
+  },
+  "Highland": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.759137386988024,
+        "lat": 57.578593068765656
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000017"
+      ],
+      "ctyua_name": [
+        "Highland"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 26142.31444203624
+    }
+  },
+  "Rutland": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.6546345224788797,
+        "lat": 52.66077661477599
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E06000017"
+      ],
+      "ctyua_name": [
+        "Rutland"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 393.8239083003498
+    }
+  },
+  "Milton Keynes": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.7334828840124693,
+        "lat": 52.083863880337574
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000042"
+      ],
+      "ctyua_name": [
+        "Milton Keynes"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 308.9044632327864
+    }
+  },
+  "Northumberland": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.0682000561947134,
+        "lat": 55.23960772459906
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E06000057"
+      ],
+      "ctyua_name": [
+        "Northumberland"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 5032.5086039431435
+    }
+  },
+  "Inverclyde": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.743710227810569,
+        "lat": 55.901122575361626
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000018"
+      ],
+      "ctyua_name": [
+        "Inverclyde"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 161.67212467674176
+    }
+  },
+  "Na h-Eileanan Siar": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.850168520182719,
+        "lat": 57.92770637277039
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000013"
+      ],
+      "ctyua_name": [
+        "Na h-Eileanan Siar"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 3079.3728846634417
+    }
+  },
+  "Hackney": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.06339218682211838,
+        "lat": 51.55228034162884
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000012"
+      ],
+      "ctyua_name": [
+        "Hackney"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 19.036344744853263
+    }
+  },
+  "Lincolnshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.24935748333514418,
+        "lat": 53.11485267818161
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E10000019"
+      ],
+      "ctyua_name": [
+        "Lincolnshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 5942.245580459893
+    }
+  },
+  "Kingston upon Thames": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.2868868744006694,
+        "lat": 51.38796198568887
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000021"
+      ],
+      "ctyua_name": [
+        "Kingston upon Thames"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 37.23027657817711
+    }
+  },
+  "Leicestershire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.1135503524401937,
+        "lat": 52.66767618511208
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E10000018"
+      ],
+      "ctyua_name": [
+        "Leicestershire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 2157.7668150624304
+    }
+  },
+  "Bath and North East Somerset": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.475226891167062,
+        "lat": 51.3559839372919
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000022"
+      ],
+      "ctyua_name": [
+        "Bath and North East Somerset"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 351.26893270709655
+    }
+  },
+  "Medway": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.5537055265379334,
+        "lat": 51.415165221352666
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000035"
+      ],
+      "ctyua_name": [
+        "Medway"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 193.35120955134624
+    }
+  },
+  "Kingston upon Hull-City of": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.3348036959302231,
+        "lat": 53.76405260431594
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E06000010"
+      ],
+      "ctyua_name": [
+        "Kingston upon Hull",
+        "City of"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 71.6141068201836
+    }
+  },
+  "Renfrewshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.543264678897074,
+        "lat": 55.845753638350544
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000038"
+      ],
+      "ctyua_name": [
+        "Renfrewshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 261.78268846548553
+    }
+  },
+  "Kirklees": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.7632135865831622,
+        "lat": 53.62735285036073
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000034"
+      ],
+      "ctyua_name": [
+        "Kirklees"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 408.48551731491585
+    }
+  },
+  "Newham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.036395255938585634,
+        "lat": 51.528338614595555
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000025"
+      ],
+      "ctyua_name": [
+        "Newham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 36.29499642632667
+    }
+  },
+  "Gateshead": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.6832142318466103,
+        "lat": 54.93499427389315
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E08000037"
+      ],
+      "ctyua_name": [
+        "Gateshead"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 142.40003136973678
+    }
+  },
+  "Worcestershire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.1692380323936717,
+        "lat": 52.223733318683685
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E10000034"
+      ],
+      "ctyua_name": [
+        "Worcestershire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 1740.5363409446195
+    }
+  },
+  "Mid Ulster": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.791914731050349,
+        "lat": 54.62191750814028
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000009"
+      ],
+      "ctyua_name": [
+        "Mid Ulster"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 1953.517227300992
+    }
+  },
+  "Torfaen": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.0535366620528803,
+        "lat": 51.698622476531334
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000020"
+      ],
+      "ctyua_name": [
+        "Torfaen"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 126.0115887978997
+    }
+  },
+  "East Renfrewshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.3595883414867895,
+        "lat": 55.753167219850745
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000011"
+      ],
+      "ctyua_name": [
+        "East Renfrewshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 174.19036063769173
+    }
+  },
+  "Orkney Islands": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.0474715448181313,
+        "lat": 59.0247251026409
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000023"
+      ],
+      "ctyua_name": [
+        "Orkney Islands"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 1013.6689433558068
+    }
+  },
+  "Isles of Scilly": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.313638170450897,
+        "lat": 49.93526403124084
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000053"
+      ],
+      "ctyua_name": [
+        "Isles of Scilly"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 15.345928903391695
+    }
+  },
+  "Merton": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.19726024444236379,
+        "lat": 51.409953823335734
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000024"
+      ],
+      "ctyua_name": [
+        "Merton"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 37.648995265414605
+    }
+  },
+  "Suffolk": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 1.0588011392644072,
+        "lat": 52.22079283134776
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E10000029"
+      ],
+      "ctyua_name": [
+        "Suffolk"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 3798.790564336783
+    }
+  },
+  "Portsmouth": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.0701769803876433,
+        "lat": 50.82065710481373
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000044"
+      ],
+      "ctyua_name": [
+        "Portsmouth"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 40.341035063955296
+    }
+  },
+  "Neath Port Talbot": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.7416162082713096,
+        "lat": 51.681514818094776
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000012"
+      ],
+      "ctyua_name": [
+        "Neath Port Talbot"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 442.68401102768814
+    }
+  },
+  "Wigan": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.5894733322278984,
+        "lat": 53.52415559483515
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000010"
+      ],
+      "ctyua_name": [
+        "Wigan"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 188.15240768228114
+    }
+  },
+  "Bexley": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.1404202619112106,
+        "lat": 51.45881994202126
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000004"
+      ],
+      "ctyua_name": [
+        "Bexley"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 60.55741762866881
+    }
+  },
+  "Derbyshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.6155926789259811,
+        "lat": 53.14220574071202
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E10000007"
+      ],
+      "ctyua_name": [
+        "Derbyshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 2629.3060366837444
+    }
+  },
+  "Telford and Wrekin": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.488743596278054,
+        "lat": 52.73022799056977
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E06000020"
+      ],
+      "ctyua_name": [
+        "Telford and Wrekin"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 290.40778758364604
+    }
+  },
+  "Rochdale": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.15776956596894,
+        "lat": 53.616579439620956
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000005"
+      ],
+      "ctyua_name": [
+        "Rochdale"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 158.29483152172222
+    }
+  },
+  "Knowsley": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.8340977890252077,
+        "lat": 53.42520789646107
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000011"
+      ],
+      "ctyua_name": [
+        "Knowsley"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 86.57453481924117
+    }
+  },
+  "Merthyr Tydfil": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.3611422771734687,
+        "lat": 51.741018037001375
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000024"
+      ],
+      "ctyua_name": [
+        "Merthyr Tydfil"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 111.96104335836974
+    }
+  },
+  "Staffordshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.032311972527052,
+        "lat": 52.85196273073704
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E10000028"
+      ],
+      "ctyua_name": [
+        "Staffordshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 2716.6353976076466
+    }
+  },
+  "Warwickshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.5595503822992576,
+        "lat": 52.30063931597242
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E10000031"
+      ],
+      "ctyua_name": [
+        "Warwickshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 1978.1331939607585
+    }
+  },
+  "Surrey": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.4205882666831202,
+        "lat": 51.247868369701806
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E10000030"
+      ],
+      "ctyua_name": [
+        "Surrey"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 1670.9245139453674
+    }
+  },
+  "Newport": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.9657981504572333,
+        "lat": 51.57931387417416
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000022"
+      ],
+      "ctyua_name": [
+        "Newport"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 190.75207962820298
+    }
+  },
+  "Clackmannanshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.7404537862428806,
+        "lat": 56.152022163703705
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000005"
+      ],
+      "ctyua_name": [
+        "Clackmannanshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 159.22171305642658
+    }
+  },
+  "Kent": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.7315437055331151,
+        "lat": 51.21943420049017
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E10000016"
+      ],
+      "ctyua_name": [
+        "Kent"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 3544.9577947258354
+    }
+  },
+  "North Somerset": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.7941539056067506,
+        "lat": 51.38978997984072
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000024"
+      ],
+      "ctyua_name": [
+        "North Somerset"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 374.83442518649645
+    }
+  },
+  "Thurrock": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.36797722730719823,
+        "lat": 51.50909802488113
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E06000034"
+      ],
+      "ctyua_name": [
+        "Thurrock"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 163.9842816983801
+    }
+  },
+  "East Riding of Yorkshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.492392843680051,
+        "lat": 53.87460774142139
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E06000011"
+      ],
+      "ctyua_name": [
+        "East Riding of Yorkshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 2406.2154264053875
+    }
+  },
+  "County Durham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.8397891768212162,
+        "lat": 54.69538663037718
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E06000047"
+      ],
+      "ctyua_name": [
+        "County Durham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 2231.732774521509
+    }
+  },
+  "Bury": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.312511764006907,
+        "lat": 53.587845231618466
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000002"
+      ],
+      "ctyua_name": [
+        "Bury"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 99.5162941539955
+    }
+  },
+  "Barnet": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.20994577335788206,
+        "lat": 51.616033937617146
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000003"
+      ],
+      "ctyua_name": [
+        "Barnet"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 86.80471411104314
+    }
+  },
+  "East Dunbartonshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.225512585135917,
+        "lat": 55.956047840643166
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000045"
+      ],
+      "ctyua_name": [
+        "East Dunbartonshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 174.27806307163118
+    }
+  },
+  "Cheshire West and Chester": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.733045187724759,
+        "lat": 53.19783543038941
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E06000050"
+      ],
+      "ctyua_name": [
+        "Cheshire West and Chester"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 920.7523729004689
+    }
+  },
+  "Brighton and Hove": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.13409438335379706,
+        "lat": 50.844637087929634
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000043"
+      ],
+      "ctyua_name": [
+        "Brighton and Hove"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 82.90192261504441
+    }
+  },
+  "Stirling": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.341458788481991,
+        "lat": 56.244418901199744
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000030"
+      ],
+      "ctyua_name": [
+        "Stirling"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 2251.778849399952
+    }
+  },
+  "Redbridge": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.07592788691108515,
+        "lat": 51.585616765729725
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000026"
+      ],
+      "ctyua_name": [
+        "Redbridge"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 56.41960671448287
+    }
+  },
+  "Enfield": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.08721675110749484,
+        "lat": 51.65101183327482
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000010"
+      ],
+      "ctyua_name": [
+        "Enfield"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 82.19862823105349
+    }
+  },
+  "Doncaster": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.0957410920404698,
+        "lat": 53.544342712785344
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000017"
+      ],
+      "ctyua_name": [
+        "Doncaster"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 568.8084499585275
+    }
+  },
+  "Lisburn and Castlereagh": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.0534946308926365,
+        "lat": 54.508334534499326
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000007"
+      ],
+      "ctyua_name": [
+        "Lisburn and Castlereagh"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 509.9868839176552
+    }
+  },
+  "Conwy": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.7345305188427935,
+        "lat": 53.13801392986946
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000003"
+      ],
+      "ctyua_name": [
+        "Conwy"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 1130.182097069321
+    }
+  },
+  "Monmouthshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.8723620931589546,
+        "lat": 51.76608897839776
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000021"
+      ],
+      "ctyua_name": [
+        "Monmouthshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 850.3937212208009
+    }
+  },
+  "Wiltshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.9447026270394971,
+        "lat": 51.297620400400426
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000054"
+      ],
+      "ctyua_name": [
+        "Wiltshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 3255.377741091717
+    }
+  },
+  "Leeds": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.5060800504330913,
+        "lat": 53.82572249907501
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000035"
+      ],
+      "ctyua_name": [
+        "Leeds"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 551.76024256585
+    }
+  },
+  "East Sussex": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.27492142338272185,
+        "lat": 50.94204827933809
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E10000011"
+      ],
+      "ctyua_name": [
+        "East Sussex"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 1713.6389576797553
+    }
+  },
+  "North Lanarkshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.94857057793071,
+        "lat": 55.87484123145056
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000050"
+      ],
+      "ctyua_name": [
+        "North Lanarkshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 472.3102382532818
+    }
+  },
+  "Sutton": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.17750457952078413,
+        "lat": 51.362095897671836
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000029"
+      ],
+      "ctyua_name": [
+        "Sutton"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 43.99666270640388
+    }
+  },
+  "Halton": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.7122233073213446,
+        "lat": 53.345120666037744
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E06000006"
+      ],
+      "ctyua_name": [
+        "Halton"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 79.24002628737348
+    }
+  },
+  "North Ayrshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.979474422905148,
+        "lat": 55.6510704486317
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000021"
+      ],
+      "ctyua_name": [
+        "North Ayrshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 884.861586747083
+    }
+  },
+  "Middlesbrough": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.2221915089090265,
+        "lat": 54.542056024783264
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E06000002"
+      ],
+      "ctyua_name": [
+        "Middlesbrough"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 53.86235092332493
+    }
+  },
+  "Stockton-on-Tees": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.3322669254391353,
+        "lat": 54.561549517963336
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E06000004"
+      ],
+      "ctyua_name": [
+        "Stockton-on-Tees"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 205.00465626384545
+    }
+  },
+  "Powys": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.4097388803659263,
+        "lat": 52.32563060681081
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000023"
+      ],
+      "ctyua_name": [
+        "Powys"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 5194.044647673071
+    }
+  },
+  "York": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.061423091373903,
+        "lat": 53.958759461182865
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E06000014"
+      ],
+      "ctyua_name": [
+        "York"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 272.0877703146941
+    }
+  },
+  "Lewisham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.02018099227591182,
+        "lat": 51.44797251567472
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000023"
+      ],
+      "ctyua_name": [
+        "Lewisham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 35.23941229485148
+    }
+  },
+  "Belfast": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -5.943859042207439,
+        "lat": 54.59639433078339
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000003"
+      ],
+      "ctyua_name": [
+        "Belfast"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 137.51564463480764
+    }
+  },
+  "Aberdeen City": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.1868105439709797,
+        "lat": 57.15708640540654
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000033"
+      ],
+      "ctyua_name": [
+        "Aberdeen City"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 185.67901201508778
+    }
+  },
+  "City of Edinburgh": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.2885098836152498,
+        "lat": 55.9242767985625
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000036"
+      ],
+      "ctyua_name": [
+        "City of Edinburgh"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 263.1731112494916
+    }
+  },
+  "North East Lincolnshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.1379921993766121,
+        "lat": 53.54259737008772
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E06000012"
+      ],
+      "ctyua_name": [
+        "North East Lincolnshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 192.7471049575885
+    }
+  },
+  "Bristol-City of": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.600500298213118,
+        "lat": 51.4667421645014
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000023"
+      ],
+      "ctyua_name": [
+        "Bristol",
+        "City of"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 110.05832935286409
+    }
+  },
+  "Harrow": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.3412292563530477,
+        "lat": 51.59770618715102
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000015"
+      ],
+      "ctyua_name": [
+        "Harrow"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 50.50889644375818
+    }
+  },
+  "Ards and North Down": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -5.630318642678651,
+        "lat": 54.53481400482169
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000011"
+      ],
+      "ctyua_name": [
+        "Ards and North Down"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 565.777132747229
+    }
+  },
+  "Causeway Coast and Glens": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.591752713988433,
+        "lat": 55.06013535498433
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000004"
+      ],
+      "ctyua_name": [
+        "Causeway Coast and Glens"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 1982.2951821495808
+    }
+  },
+  "Denbighshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.35333729998025,
+        "lat": 53.08993406678759
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000004"
+      ],
+      "ctyua_name": [
+        "Denbighshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 838.8919524124761
+    }
+  },
+  "Newcastle upon Tyne": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.6582298176596935,
+        "lat": 55.008260699167764
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E08000021"
+      ],
+      "ctyua_name": [
+        "Newcastle upon Tyne"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 113.46143580135683
+    }
+  },
+  "Nottinghamshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.0066105244236192,
+        "lat": 53.133558671134686
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E10000024"
+      ],
+      "ctyua_name": [
+        "Nottinghamshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 2160.699984232954
+    }
+  },
+  "West Berkshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.30455444514726,
+        "lat": 51.44960753529558
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000037"
+      ],
+      "ctyua_name": [
+        "West Berkshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 704.1808901650975
+    }
+  },
+  "Southend-on-Sea": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.7093536637085007,
+        "lat": 51.54775470559181
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E06000033"
+      ],
+      "ctyua_name": [
+        "Southend-on-Sea"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 41.71398845882181
+    }
+  },
+  "Nottingham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.1764932725495263,
+        "lat": 52.960603151126975
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E06000018"
+      ],
+      "ctyua_name": [
+        "Nottingham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 74.64810205687323
+    }
+  },
+  "Wolverhampton": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.1210029778928705,
+        "lat": 52.58922194326155
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E08000031"
+      ],
+      "ctyua_name": [
+        "Wolverhampton"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 69.49316835322315
+    }
+  },
+  "South Lanarkshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.811025349625734,
+        "lat": 55.612839435968205
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000029"
+      ],
+      "ctyua_name": [
+        "South Lanarkshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 1773.3808313266873
+    }
+  },
+  "Tameside": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.0629025782954904,
+        "lat": 53.477427835650396
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000008"
+      ],
+      "ctyua_name": [
+        "Tameside"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 103.27493297656646
+    }
+  },
+  "Blaenau Gwent": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.193835158757662,
+        "lat": 51.76674976702314
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000019"
+      ],
+      "ctyua_name": [
+        "Blaenau Gwent"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 108.7035740598184
+    }
+  },
+  "Derry City and Strabane": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -7.360423805032069,
+        "lat": 54.820467371698136
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000005"
+      ],
+      "ctyua_name": [
+        "Derry City and Strabane"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 1247.8527678771259
+    }
+  },
+  "Hammersmith and Fulham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.2213492560067288,
+        "lat": 51.49599382833567
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000013"
+      ],
+      "ctyua_name": [
+        "Hammersmith and Fulham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 16.39144209261951
+    }
+  },
+  "East Lothian": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.720389697262407,
+        "lat": 55.939848015391554
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000010"
+      ],
+      "ctyua_name": [
+        "East Lothian"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 679.2031545307458
+    }
+  },
+  "Lambeth": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.11825876449117886,
+        "lat": 51.453157003418845
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000022"
+      ],
+      "ctyua_name": [
+        "Lambeth"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 26.84774398301287
+    }
+  },
+  "South Tyneside": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.4443905128744166,
+        "lat": 54.96275815962141
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E08000023"
+      ],
+      "ctyua_name": [
+        "South Tyneside"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 64.55613415500817
+    }
+  },
+  "Bolton": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.466879186565897,
+        "lat": 53.57862759133561
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000001"
+      ],
+      "ctyua_name": [
+        "Bolton"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 139.833139850213
+    }
+  },
+  "Blackpool": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.029229995455758,
+        "lat": 53.81780089301986
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E06000009"
+      ],
+      "ctyua_name": [
+        "Blackpool"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 34.80754127594408
+    }
+  },
+  "Dundee City": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.9705020245040097,
+        "lat": 56.47799822285952
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000042"
+      ],
+      "ctyua_name": [
+        "Dundee City"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 59.77410537639672
+    }
+  },
+  "Central Bedfordshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.43599015962936355,
+        "lat": 52.006676899712
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E06000056"
+      ],
+      "ctyua_name": [
+        "Central Bedfordshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 716.0210231697331
+    }
+  },
+  "Stockport": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.128086076696361,
+        "lat": 53.393904852271824
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000007"
+      ],
+      "ctyua_name": [
+        "Stockport"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 126.00049566249247
+    }
+  },
+  "Swindon": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.7437958773882984,
+        "lat": 51.571560788548794
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000030"
+      ],
+      "ctyua_name": [
+        "Swindon"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 230.1194388839456
+    }
+  },
+  "Cambridgeshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.033403359647397574,
+        "lat": 52.33976637326475
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E10000003"
+      ],
+      "ctyua_name": [
+        "Cambridgeshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 3054.8003624209246
+    }
+  },
+  "Salford": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.370149281985918,
+        "lat": 53.48951471105216
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000006"
+      ],
+      "ctyua_name": [
+        "Salford"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 97.08664361745736
+    }
+  },
+  "Havering": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.22113092467276918,
+        "lat": 51.56438547936394
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000016"
+      ],
+      "ctyua_name": [
+        "Havering"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 112.27268226305323
+    }
+  },
+  "Falkirk": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.797758890490491,
+        "lat": 55.99522802543791
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000014"
+      ],
+      "ctyua_name": [
+        "Falkirk"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 297.81816659891757
+    }
+  },
+  "Somerset": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.938617815340581,
+        "lat": 51.09888569223245
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E10000027"
+      ],
+      "ctyua_name": [
+        "Somerset"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 3452.04986430812
+    }
+  },
+  "Calderdale": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.9734041404219738,
+        "lat": 53.721160409979376
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000003"
+      ],
+      "rgn_name": [
+        "Yorkshire and The Humber"
+      ],
+      "ctyua_code": [
+        "E08000033"
+      ],
+      "ctyua_name": [
+        "Calderdale"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 363.9625751413582
+    }
+  },
+  "Cornwall": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.824839974012506,
+        "lat": 50.406635845102414
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000009"
+      ],
+      "rgn_name": [
+        "South West"
+      ],
+      "ctyua_code": [
+        "E06000052"
+      ],
+      "ctyua_name": [
+        "Cornwall"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 3550.6700632081765
+    }
+  },
+  "Sefton": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.0045772734790828,
+        "lat": 53.55117332169983
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000014"
+      ],
+      "ctyua_name": [
+        "Sefton"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 156.60901831892596
+    }
+  },
+  "Haringey": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.10751203441081007,
+        "lat": 51.59038148241807
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000014"
+      ],
+      "ctyua_name": [
+        "Haringey"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 29.599096392541817
+    }
+  },
+  "Southampton": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.3990832123146164,
+        "lat": 50.919891473471075
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000008"
+      ],
+      "rgn_name": [
+        "South East"
+      ],
+      "ctyua_code": [
+        "E06000045"
+      ],
+      "ctyua_name": [
+        "Southampton"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 49.959990692887445
+    }
+  },
+  "Antrim and Newtownabbey": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.198695168005921,
+        "lat": 54.70181601272228
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000001"
+      ],
+      "ctyua_name": [
+        "Antrim and Newtownabbey"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 727.4003282314372
+    }
+  },
+  "Liverpool": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.916707400434384,
+        "lat": 53.40395400204777
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000012"
+      ],
+      "ctyua_name": [
+        "Liverpool"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 111.84108955215218
+    }
+  },
+  "Scottish Borders": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.788173523050271,
+        "lat": 55.57623148375154
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000026"
+      ],
+      "ctyua_name": [
+        "Scottish Borders"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 4738.540497394773
+    }
+  },
+  "North Tyneside": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.5193459795798516,
+        "lat": 55.028382986079116
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E08000022"
+      ],
+      "ctyua_name": [
+        "North Tyneside"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 82.35867897455532
+    }
+  },
+  "Lancashire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.6116938645417576,
+        "lat": 53.844677367850835
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E10000017"
+      ],
+      "ctyua_name": [
+        "Lancashire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "county",
+      "area": 2898.2840260174503
+    }
+  },
+  "Moray": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.264985595513914,
+        "lat": 57.47424784095404
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000020"
+      ],
+      "ctyua_name": [
+        "Moray"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 2237.2661695863785
+    }
+  },
+  "Oldham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.0506851475423993,
+        "lat": 53.551838765839655
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000004"
+      ],
+      "ctyua_name": [
+        "Oldham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 142.34370924374076
+    }
+  },
+  "Hounslow": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.36711775127914326,
+        "lat": 51.46835686252175
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000018"
+      ],
+      "ctyua_name": [
+        "Hounslow"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 56.122753643615496
+    }
+  },
+  "Blackburn with Darwen": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.4676047163665342,
+        "lat": 53.69265966242701
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E06000008"
+      ],
+      "ctyua_name": [
+        "Blackburn with Darwen"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 137.01333971753277
+    }
+  },
+  "Wirral": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.071079807941634,
+        "lat": 53.36205636822174
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000002"
+      ],
+      "rgn_name": [
+        "North West"
+      ],
+      "ctyua_code": [
+        "E08000015"
+      ],
+      "ctyua_name": [
+        "Wirral"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 160.95428775261618
+    }
+  },
+  "Sunderland": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.452740397275986,
+        "lat": 54.879928593776846
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E08000024"
+      ],
+      "ctyua_name": [
+        "Sunderland"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "metropolitan district",
+      "area": 137.41085677214556
+    }
+  },
+  "Luton": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.4255176482247153,
+        "lat": 51.89420739165307
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000006"
+      ],
+      "rgn_name": [
+        "East of England"
+      ],
+      "ctyua_code": [
+        "E06000032"
+      ],
+      "ctyua_name": [
+        "Luton"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 43.33636790200097
+    }
+  },
+  "Kensington and Chelsea": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.19286168584387578,
+        "lat": 51.50162810313927
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000020"
+      ],
+      "ctyua_name": [
+        "Kensington and Chelsea"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 12.15765263368261
+    }
+  },
+  "Mid and East Antrim": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -6.102382780140308,
+        "lat": 54.874385749926866
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000008"
+      ],
+      "ctyua_name": [
+        "Mid and East Antrim"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 1060.6695898333533
+    }
+  },
+  "East Ayrshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -4.314317821215341,
+        "lat": 55.48534317120321
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000008"
+      ],
+      "ctyua_name": [
+        "East Ayrshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 1269.7219084188741
+    }
+  },
+  "Herefordshire-County of": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.7451373013174796,
+        "lat": 52.103690896236785
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E06000019"
+      ],
+      "ctyua_name": [
+        "Herefordshire",
+        "County of"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 2179.352852858178
+    }
+  },
+  "Fermanagh and Omagh": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -7.503825862645869,
+        "lat": 54.44264214958954
+      },
+      "year": "2022",
+      "ctry_code": [
+        "N92000002"
+      ],
+      "ctry_name": [
+        "Northern Ireland"
+      ],
+      "rgn_code": [
+        "N92000002"
+      ],
+      "rgn_name": [
+        "Northern Ireland"
+      ],
+      "ctyua_code": [
+        "N09000006"
+      ],
+      "ctyua_name": [
+        "Fermanagh and Omagh"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "local government district",
+      "area": 3003.3141070650126
+    }
+  },
+  "Richmond upon Thames": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.31295227075404186,
+        "lat": 51.44215205124323
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000027"
+      ],
+      "ctyua_name": [
+        "Richmond upon Thames"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 57.340457192163484
+    }
+  },
+  "Hartlepool": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.2594498996147927,
+        "lat": 54.66945486105498
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000001"
+      ],
+      "rgn_name": [
+        "North East"
+      ],
+      "ctyua_code": [
+        "E06000001"
+      ],
+      "ctyua_name": [
+        "Hartlepool"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 93.72807667397608
+    }
+  },
+  "North Northamptonshire": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.62592436361184,
+        "lat": 52.425608450541496
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000004"
+      ],
+      "rgn_name": [
+        "East Midlands"
+      ],
+      "ctyua_code": [
+        "E06000061"
+      ],
+      "ctyua_name": [
+        "North Northamptonshire"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 986.904922854045
+    }
+  },
+  "City of London": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.09215632084948144,
+        "lat": 51.51482921678951
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000001"
+      ],
+      "ctyua_name": [
+        "City of London"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 2.9244546481963614
+    }
+  },
+  "Stoke-on-Trent": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -2.1646345671640588,
+        "lat": 53.018091446415376
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000005"
+      ],
+      "rgn_name": [
+        "West Midlands"
+      ],
+      "ctyua_code": [
+        "E06000021"
+      ],
+      "ctyua_name": [
+        "Stoke-on-Trent"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 93.3259892190515
+    }
+  },
+  "Shetland Islands": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -1.255446921840738,
+        "lat": 60.38076833773809
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000027"
+      ],
+      "ctyua_name": [
+        "Shetland Islands"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 1463.2265125701006
+    }
+  },
+  "Barking and Dagenham": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": 0.13357599402184367,
+        "lat": 51.54535857630275
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000002"
+      ],
+      "ctyua_name": [
+        "Barking and Dagenham"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 36.08154399126757
+    }
+  },
+  "Argyll and Bute": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -5.494828343068037,
+        "lat": 56.12326780006701
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000035"
+      ],
+      "ctyua_name": [
+        "Argyll and Bute"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 6993.193458684827
+    }
+  },
+  "Bridgend": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.5982834843814113,
+        "lat": 51.55696964581936
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000013"
+      ],
+      "ctyua_name": [
+        "Bridgend"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 250.7069588354014
+    }
+  },
+  "Southwark": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -0.07457566324347267,
+        "lat": 51.47318048110431
+      },
+      "year": "2022",
+      "ctry_code": [
+        "E92000001"
+      ],
+      "ctry_name": [
+        "England"
+      ],
+      "rgn_code": [
+        "E12000007"
+      ],
+      "rgn_name": [
+        "London"
+      ],
+      "ctyua_code": [
+        "E09000028"
+      ],
+      "ctyua_name": [
+        "Southwark"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "London borough",
+      "area": 28.855736074314173
+    }
+  },
+  "Perth and Kinross": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.8241387876372026,
+        "lat": 56.5668656847934
+      },
+      "year": "2022",
+      "ctry_code": [
+        "S92000003"
+      ],
+      "ctry_name": [
+        "Scotland"
+      ],
+      "rgn_code": [
+        "S92000003"
+      ],
+      "rgn_name": [
+        "Scotland"
+      ],
+      "ctyua_code": [
+        "S12000048"
+      ],
+      "ctyua_name": [
+        "Perth and Kinross"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "council area",
+      "area": 5382.77819079957
+    }
+  },
+  "Rhondda Cynon Taf": {
+    "properties": {
+      "geo_point_2d": {
+        "lon": -3.435701354726621,
+        "lat": 51.65046226020036
+      },
+      "year": "2022",
+      "ctry_code": [
+        "W92000004"
+      ],
+      "ctry_name": [
+        "Wales"
+      ],
+      "rgn_code": [
+        "W92000004"
+      ],
+      "rgn_name": [
+        "Wales"
+      ],
+      "ctyua_code": [
+        "W06000016"
+      ],
+      "ctyua_name": [
+        "Rhondda Cynon Taf"
+      ],
+      "ctyua_area_code": "GBR",
+      "ctyua_type": "unitary authority",
+      "area": 423.93624639150477
+    }
+  }
+}

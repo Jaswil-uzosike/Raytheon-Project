@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\grpproj",
+    "\\backend\\grpproj\\grpproj",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\src"
+  ],
+  "SelectedNode": "\\frontend\\public\\index.html",
+  "PreviewInSolutionExplorer": false
+}

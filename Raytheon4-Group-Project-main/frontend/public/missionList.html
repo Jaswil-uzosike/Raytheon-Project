@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mission List</title>
+    <link rel="stylesheet" href="missionList.css" />
+    <!-- Leaflet for maps -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <!-- Chart.js for graphs -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <div class="left-container">
+        <div class="logo">
+          <img src="assets/raytheon-logo.png" alt="Raytheon UK" />
+        </div>
+        <nav class="nav-links">
+          <a id="mapLink">Map</a>
+          <script>
+            document.getElementById("mapLink").href = window.location.origin;
+          </script>
+          <a href="missionList.html">Mission List</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <h1>Mission List</h1>
+
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search missions..."
+        onkeyup="filterMissions()"
+      />
+
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th onclick="sortTable(0)" class="sortable">
+                Mission ID <span class="sort-icon"></span>
+              </th>
+              <th onclick="sortTable(1)" class="sortable">
+                Scene ID <span class="sort-icon"></span>
+              </th>
+              <th onclick="sortTable(2)" class="sortable">
+                Latitude <span class="sort-icon"></span>
+              </th>
+              <th onclick="sortTable(3)" class="sortable">
+                Longitude <span class="sort-icon"></span>
+              </th>
+              <th>Map Link</th>
+              <th>Coverage Preview</th>
+            </tr>
+          </thead>
+          <tbody id="missionTableBody"></tbody>
+        </table>
+      </div>
+
+      <div class="visualization-container">
+        <div class="chart-container">
+          <canvas id="missionChart"></canvas>
+        </div>
+        <div class="map-container">
+          <div id="distributionMap" style="height: 100%"></div>
+        </div>
+      </div>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+      const BASE_URL = window.location.origin;
+
+      window.addEventListener("DOMContentLoaded", async () => {
+        await populateMissionTable();
+        await initMiniMaps();
+
+        const savedSort = localStorage.getItem("missionSortState");
+        if (savedSort) {
+          currentSort = JSON.parse(savedSort);
+          setTimeout(() => {
+            if (currentSort.column !== null) {
+              sortTable(currentSort.column);
+            }
+          }, 100);
+        }
+      });
+
+      let currentSort = {
+        column: null,
+        direction: "asc",
+      };
+
+      async function populateMissionTable() {
+        const missionTableBody = document.getElementById("missionTableBody");
+        if (!missionTableBody) {
+          console.error("Error: missionTableBody element not found!");
+          return;
+        }
+
+        const cacheKey = "missionData";
+
+        try {
+          let dictionary;
+          const cachedData = localStorage.getItem(cacheKey);
+
+          if (cachedData) {
+            console.log("Using cached mission data.");
+            dictionary = JSON.parse(cachedData);
+          } else {
+            console.log("Fetching mission data from server.");
+            const response = await fetch(`${BASE_URL}/coverage`);
+            dictionary = await response.json();
+            localStorage.setItem(cacheKey, JSON.stringify(dictionary));
+          }
+
+          missionTableBody.innerHTML = "";
+
+          for (const [missionID, scenes] of Object.entries(dictionary)) {
+            if (typeof scenes !== "object" || scenes === null) continue;
+
+            for (const [sceneID, sceneData] of Object.entries(scenes)) {
+              if (
+                typeof sceneData !== "object" ||
+                sceneData === null
+              )
+                continue;
+
+              const lat = sceneData.centre_point ? sceneData.centre_point[1] : 0;
+              const lon = sceneData.centre_point ? sceneData.centre_point[0] : 0;
+
+              const row = document.createElement("tr");
+              row.innerHTML = `
+                <td>${missionID}</td>
+                <td>${sceneID}</td>
+                <td>${lat.toFixed(6)}</td>
+                <td>${lon.toFixed(6)}</td>
+                <td><a href="${BASE_URL}?lat=${lat}&lng=${lon}" target="_blank">View on Map</a></td>
+                <td><div class="mini-map" id="map-${missionID}-${sceneID}"></div></td>
+              `;
+              missionTableBody.appendChild(row);
+            }
+          }
+        } catch (error) {
+          console.error("Error populating mission table:", error);
+        }
+      }
+
+      async function initMiniMaps() {
+        const response = await fetch(`${BASE_URL}/coverage`);
+        const dictionary = await response.json();
+        const missions = [];
+
+        for (const [missionID, scenes] of Object.entries(dictionary)) {
+          if (typeof scenes !== "object" || scenes === null) continue;
+
+          for (const [sceneID, sceneData] of Object.entries(scenes)) {
+            if (
+              typeof sceneData !== "object" ||
+              sceneData === null 
+            )
+              continue;
+
+            const lat = sceneData.centre_point ? sceneData.centre_point[0] : 0;
+            const lon = sceneData.centre_point ? sceneData.centre_point[1] : 0;
+            const mapId = `map-${missionID}-${sceneID}`;
+
+            missions.push({
+              missionID,
+              sceneID,
+              lat,
+              lon,
+              timestamp: sceneData.timestamp || null,
+            });
+
+            const map = L.map(mapId, {
+              zoomControl: false,
+              attributionControl: false,
+              dragging: false,
+              doubleClickZoom: false,
+              boxZoom: false,
+              scrollWheelZoom: false,
+            });
+
+            L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+              maxZoom: 8,
+              minZoom: 3,
+            }).addTo(map);
+
+            if (sceneData.footprint) {
+              const polygon = L.polygon(sceneData.footprint, {
+                color: "#00aaff",
+                weight: 1,
+                fillOpacity: 0.5,
+                fillColor: "#00aaff",
+              }).addTo(map);
+
+              L.circleMarker([lon, lat], {
+                radius: 2,
+                color: "#ffaa00",
+                fillOpacity: 1,
+              }).addTo(map);
+
+              map.fitBounds(polygon.getBounds(), {
+                padding: [10, 10],
+                maxZoom: 6,
+              });
+            } else {
+              map.setView([lon, lat], 5);
+              L.circleMarker([lon, lat], {
+                radius: 5,
+                color: "#00aaff",
+                fillOpacity: 0.7,
+              }).addTo(map);
+            }
+          }
+        }
+
+        createMissionChart(missions);
+        createDistributionMap(missions);
+      }
+
+      function createMissionChart(missions) {
+        const ctx = document.getElementById("missionChart").getContext("2d");
+        const missionCounts = missions.reduce((acc, mission) => {
+          acc[mission.missionID] = (acc[mission.missionID] || 0) + 1;
+          return acc;
+        }, {});
+
+        new Chart(ctx, {
+          type: "bar",
+          data: {
+            labels: Object.keys(missionCounts),
+            datasets: [
+              {
+                label: "Scenes per Mission",
+                data: Object.values(missionCounts),
+                backgroundColor: "rgba(0, 170, 255, 0.7)",
+                borderColor: "rgba(0, 170, 255, 1)",
+                borderWidth: 1,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              legend: { display: false },
+              title: {
+                display: true,
+                text: "Mission Scene Distribution",
+                color: "#fff",
+              },
+            },
+            scales: {
+              y: {
+                beginAtZero: true,
+                ticks: { color: "#fff" },
+                grid: { color: "rgba(255,255,255,0.1)" },
+              },
+              x: {
+                ticks: { color: "#fff" },
+                grid: { color: "rgba(255,255,255,0.1)" },
+              },
+            },
+          },
+        });
+      }
+
+      function createDistributionMap(missions) {
+        const map = L.map("distributionMap").setView([0, 0], 2);
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(
+          map
+        );
+        const missionLayer = L.featureGroup().addTo(map);
+
+        missions.forEach((mission) => {
+          L.circleMarker([mission.lon, mission.lat], {
+            radius: 5,
+            color: "#00aaff",
+            fillOpacity: 0.7,
+          })
+            .bindPopup(
+              `<b>${mission.missionID}</b><br>Scene: ${mission.sceneID}`
+            )
+            .addTo(missionLayer);
+        });
+
+        if (missions.length > 0) {
+          map.fitBounds(missionLayer.getBounds().pad(0.2));
+        }
+      }
+
+      function sortTable(columnIndex) {
+        const tableBody = document.getElementById("missionTableBody");
+        const rows = Array.from(tableBody.rows);
+        const headers = document.querySelectorAll("th.sortable");
+
+        headers.forEach((header) =>
+          header.classList.remove("sorted-asc", "sorted-desc")
+        );
+
+        if (currentSort.column === columnIndex) {
+          currentSort.direction =
+            currentSort.direction === "asc" ? "desc" : "asc";
+        } else {
+          currentSort.column = columnIndex;
+          currentSort.direction = "asc";
+        }
+
+        headers[columnIndex].classList.add(`sorted-${currentSort.direction}`);
+        localStorage.setItem("missionSortState", JSON.stringify(currentSort));
+
+        rows.sort((rowA, rowB) => {
+          let cellA = rowA.cells[columnIndex].textContent.trim();
+          let cellB = rowB.cells[columnIndex].textContent.trim();
+
+          if (!isNaN(cellA)) {
+            cellA = parseFloat(cellA);
+            cellB = parseFloat(cellB);
+            return currentSort.direction === "asc"
+              ? cellA - cellB
+              : cellB - cellA;
+          }
+
+          return currentSort.direction === "asc"
+            ? cellA.localeCompare(cellB)
+            : cellB.localeCompare(cellA);
+        });
+
+        tableBody.innerHTML = "";
+        rows.forEach((row) => tableBody.appendChild(row));
+      }
+
+      function filterMissions() {
+        const searchValue = document
+          .getElementById("searchInput")
+          .value.toLowerCase();
+        const rows = document.querySelectorAll("#missionTableBody tr");
+
+        rows.forEach((row) => {
+          const missionID = row.cells[0].textContent.toLowerCase();
+          const sceneID = row.cells[1].textContent.toLowerCase();
+
+          if (
+            missionID.includes(searchValue) ||
+            sceneID.includes(searchValue)
+          ) {
+            row.style.display = "";
+          } else {
+            row.style.display = "none";
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

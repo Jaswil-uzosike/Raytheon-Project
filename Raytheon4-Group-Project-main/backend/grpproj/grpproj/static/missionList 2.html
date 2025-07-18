@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Metadata -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mission List</title>
+
+  <!-- Link to external CSS file -->
+  <link rel="stylesheet" href="missionList.css" />
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="left-container">
+
+            <div class="logo">
+                <img src="assets/raytheon-logo.png" alt="Raytheon UK">
+            </div>
+
+            <!-- Navigation Links -->
+            <nav class="nav-links">
+                <a id="mapLink">Map</a>
+
+                <script>
+                    document.getElementById("mapLink").href = window.location.origin;
+                </script>
+                <a href="missionList.html">Mission List</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <h1>Mission List</h1>
+
+  <!-- Inline Script to Populate Table with Caching -->
+  <script>
+    window.addEventListener("DOMContentLoaded", populateMissionTable);
+
+    async function populateMissionTable() {
+      const missionTableBody = document.getElementById("missionTableBody");
+      const cacheKey = 'missionData';
+
+      try {
+        let dictionary;
+        // 1. Check if the data is in the localStorage cache
+        const cachedData = localStorage.getItem(cacheKey);
+        if (cachedData) {
+          console.log("Using cached mission data.");
+          dictionary = JSON.parse(cachedData);
+        } else {
+          console.log("Fetching mission data from server.");
+          // 2. Fetch data from the server if not cached
+          const response = await fetch("http://window.location.origin/coverage");
+          dictionary = await response.json();
+          // Cache the fetched data for future loads
+          localStorage.setItem(cacheKey, JSON.stringify(dictionary));
+        }
+
+        // 3. Clear existing table rows
+        missionTableBody.innerHTML = "";
+
+        // 4. Loop over each mission and scene to build the table
+        for (const [missionID, scenes] of Object.entries(dictionary)) {
+          for (const [sceneID, sceneData] of Object.entries(scenes)) {
+            // Assume each scene has a "centre_point" as an array [lat, lon]
+            const lat = sceneData.centre_point ? sceneData.centre_point[0] : 0;
+            const lon = sceneData.centre_point ? sceneData.centre_point[1] : 0;
+
+            // 5. Build a new row with the mission and scene data
+            const row = document.createElement("tr");
+            row.innerHTML = `
+              <td>${missionID}</td>
+              <td>${sceneID}</td>
+              <td>${lat.toFixed(6)}</td>
+              <td>${lon.toFixed(6)}</td>
+              <td>
+                <a href="http://window.location.origin?lat=${lat}&lng=${lon}" target="_blank">
+                  View on Map
+                </a>
+              </td>
+            `;
+            // 6. Append the row to the table body
+            missionTableBody.appendChild(row);
+          }
+        }
+      } catch (error) {
+        console.error("Error populating mission table:", error);
+      }
+    }
+  </script>
+</body>
+
+</html>
